@@ -8,6 +8,10 @@ public class ProgramaTiposDeDadosEVariaveis {
     public static void main(String[] args) {
         
         //Declara e inicializa uma variável do tipo inteiro
+        //(metade da capacidade armazenamento)
+        short sh = 1;
+        
+        //Declara e inicializa uma variável do tipo inteiro
         int i = 2;
         
         //Declara e inicializa uma variável do tipo inteiro 
@@ -35,6 +39,10 @@ public class ProgramaTiposDeDadosEVariaveis {
         //false para falso
         boolean b = true;
 
+        
+        //Imprime na tela o valor armazenado em uma variável do tipo short
+        System.out.println("Valor da variavel sh: " + sh);
+        
         //Imprime na tela o valor armazenado em uma variável do tipo int
         System.out.println("Valor da variavel i: " + i);
 
@@ -51,6 +59,6 @@ public class ProgramaTiposDeDadosEVariaveis {
         System.out.println("Valor da variavel s: " + s);
         
         //Imprime na tela o valor armazenado em uma variável do tipo boolean
-        System.out.println("Valor da variavel f: " + b);           
+        System.out.println("Valor da variavel b: " + b);           
     }
 }
