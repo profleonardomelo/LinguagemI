@@ -1,9 +1,13 @@
+//Define o pacote que contém esta classe
 package Java_10;
 
+//Importando Classes
 import java.util.*;
 
+//Cria uma classe pública chamada "ProgramaEntradaDeDadosPeloTeclado"
 public class ProgramaEntradaDeDadosPeloTeclado {
 
+    //Cria o método principal (função) "main"
     public static void main(String[] args) {
         
         System.out.println("  <<< Progrma Soma >>>>  ");
