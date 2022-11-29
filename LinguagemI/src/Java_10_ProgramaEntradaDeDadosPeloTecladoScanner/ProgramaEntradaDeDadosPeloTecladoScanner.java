@@ -11,7 +11,7 @@ public class ProgramaEntradaDeDadosPeloTecladoScanner {
     public static void main(String[] args) {
         
         //Imprime na tela um texto e coloca a cursor em uma nova linha
-        System.out.println("  <<< Progrma Soma >>>>  ");
+        System.out.println("  <<< Programa Soma >>>>  ");
         
         //Cria um objeto leitor de dados do tipo Scanner
         Scanner leitor = new Scanner(System.in);
@@ -41,7 +41,7 @@ public class ProgramaEntradaDeDadosPeloTecladoScanner {
         System.out.println("O resultado da soma e: " + soma);
         
         //Imprime na tela um texto concatenado com uma variável e coloca a cursor em uma nova linha
-        System.out.println("Autor(a) do program: " + n);
+        System.out.println("Autor(a) do programa: " + n);
         
     }
     

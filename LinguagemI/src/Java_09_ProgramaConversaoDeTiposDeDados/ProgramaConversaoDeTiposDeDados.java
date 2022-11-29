@@ -11,7 +11,7 @@ public class ProgramaConversaoDeTiposDeDados {
         int i = 10;
         
         //Imprime na tela o valor de uma variável
-        System.out.println("x: " + i);
+        System.out.println("i: " + i);
         
         
         //Convertendo o valor armazenado de int para float
@@ -58,7 +58,7 @@ public class ProgramaConversaoDeTiposDeDados {
         
         
         //Convertendo o valor armazenado de String para double
-        double d2 = Float.parseFloat(s2);
+        double d2 = Double.parseDouble(s2);
         
         //Imprime na tela o valor de uma variável
         System.out.println("d2: " + d2);
