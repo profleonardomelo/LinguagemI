@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_05;
+package Java_05_ProgramaOperadoresAritmeticos;
 
 //Cria uma classe pública chamada "ProgramaOperadoresAritmeticos"
 public class ProgramaOperadoresAritmeticos {

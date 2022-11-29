@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_07;
+package Java_07_ProgramaOperadoresLogicos;
 
 //Cria uma classe pública chamada "ProgramaOperadoresLogicos"
 public class ProgramaOperadoresLogicos {

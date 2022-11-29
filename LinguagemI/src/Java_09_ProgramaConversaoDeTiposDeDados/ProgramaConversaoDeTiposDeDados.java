@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_09;
+package Java_09_ProgramaConversaoDeTiposDeDados;
 
 //Cria uma classe pública chamada "ProgramaSequenciasDeEscape"
 public class ProgramaConversaoDeTiposDeDados {

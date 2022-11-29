@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_02;
+package Java_02_ProgramaTiposDeDadosEVariaveis;
 
 //Cria uma classe pública chamada "ProgramaTiposDeDadosEVariaveis" 
 public class ProgramaTiposDeDadosEVariaveis {

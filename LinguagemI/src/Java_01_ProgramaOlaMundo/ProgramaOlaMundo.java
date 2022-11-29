@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_01;
+package Java_01_ProgramaOlaMundo;
 
 //Cria uma classe pública chamada "ProgramaOlaMundo" 
 public class ProgramaOlaMundo {

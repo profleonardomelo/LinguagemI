@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_06;
+package Java_06_ProgramaOperadoresRelacionais;
 
 //Cria uma classe pública chamada "ProgramaOperadoresRelacionais"
 public class ProgramaOperadoresRelacionais {

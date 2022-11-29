@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_04;
+package Java_04_ProgramaConstantes;
 
 //Cria uma classe pública chamada "ProgramaConstantes"
 public class ProgramaConstantes {

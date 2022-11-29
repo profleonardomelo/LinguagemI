@@ -11,10 +11,10 @@ Obs.: Não usar comando if.
 
 
 //Define o pacote que contém esta classe
-package Java_13;
+package Java_13_ProgramaExercicioCalcularMediaDeNotas;
 
-//Cria uma classe pública chamada "ProgramaCalcularMediaDeNotas"
-public class ProgramaCalcularMediaDeNotas {
+//Cria uma classe pública chamada "ProgramaExercicioCalcularMediaDeNotas"
+public class ProgramaExercicioCalcularMediaDeNotas {
 
     //Cria o método principal (função) "main"
     public static void main(String[] args) {

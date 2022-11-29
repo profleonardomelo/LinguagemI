@@ -7,10 +7,10 @@ valor do desconto = valor do produto * percentual de desconto/100.
 */
 
 //Define o pacote que contém esta classe
-package Java_12;
+package Java_12_ProgramaExercicioCalcularValorDoProdutoComDesconto;
 
-//Cria uma classe pública chamada "ProgramaCalcularValorDoProdutoComDesconto"
-public class ProgramaCalcularValorDoProdutoComDesconto {
+//Cria uma classe pública chamada "ProgramaExercicioCalcularValorDoProdutoComDesconto"
+public class ProgramaExercicioCalcularValorDoProdutoComDesconto {
 
     //Cria o método principal (função) "main"
     public static void main(String[] args) {

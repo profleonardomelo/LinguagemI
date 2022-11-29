@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_10;
+package Java_10_ProgramaEntradaDeDadosPeloTecladoScanner;
 
 //Importando Classes
 import java.util.*;

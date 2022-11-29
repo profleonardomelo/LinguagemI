@@ -1,5 +1,5 @@
 //Define o pacote que contém esta classe
-package Java_03;
+package Java_03_ProgramaComentarios;
 
 //Cria uma classe pública chamada "ProgramaComentarios" 
 public class ProgramaComentarios {
