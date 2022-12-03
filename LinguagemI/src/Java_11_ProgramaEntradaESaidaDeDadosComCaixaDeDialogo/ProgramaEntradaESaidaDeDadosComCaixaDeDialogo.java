@@ -31,9 +31,10 @@ public class ProgramaEntradaESaidaDeDadosComCaixaDeDialogo {
         //Calculando o perímetro de um retângulo e armazenando seu resultado em uma variável
         float perimetro = (comprimento * 2) + (largura * 2);
         
+        //Declara uma variável do tipo String e atribui um texto a ela. Esse texto resulta de concatenações
         String mensagem = "<<<Resultado>>>\nÁrea: " + area + "\nPerímetro: " + perimetro;
         
-        //Apresentando, em uma caixa de diálogo, um texto concatenado com variáveis com valores calculados
+        //Apresentando, em uma caixa de diálogo, um texto
         JOptionPane.showMessageDialog(null, mensagem);
     }
     
