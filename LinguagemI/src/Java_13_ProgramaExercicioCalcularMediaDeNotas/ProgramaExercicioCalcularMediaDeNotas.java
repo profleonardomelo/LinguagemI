@@ -22,10 +22,6 @@ public class ProgramaExercicioCalcularMediaDeNotas {
     //Cria o método principal (função) "main"
     public static void main(String[] args) {
         
-        //Exibe na Tela String com título do programa
-        System.out.println("<<<< Programa Media de Notas >>>>\n");
-        
-        
         //Declaração de uma variável do tipo String
         String leitura; 
         
