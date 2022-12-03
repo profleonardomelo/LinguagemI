@@ -2,7 +2,7 @@
 package Java_10_ProgramaEntradaDeDadosPeloTecladoScanner;
 
 //Importando Classes
-import java.util.*;
+import java.util.Scanner;
 
 //Cria uma classe pública chamada "ProgramaEntradaDeDadosPeloTecladoScanner"
 public class ProgramaEntradaDeDadosPeloTecladoScanner {
@@ -42,7 +42,6 @@ public class ProgramaEntradaDeDadosPeloTecladoScanner {
         
         //Imprime na tela um texto concatenado com uma variável e coloca a cursor em uma nova linha
         System.out.println("Autor(a) do programa: " + n);
-        
     }
     
 }
