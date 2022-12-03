@@ -1,13 +1,9 @@
-//Define o pacote que contém esta classe
 package Java_01_ProgramaOlaMundo;
 
-//Cria uma classe pública chamada "ProgramaOlaMundo" 
-public class ProgramaOlaMundo {
+ public class ProgramaOlaMundo {
 
-    //Cria o método principal (função) "main"
     public static void main(String[] args) {
         
-        //Imprime na Tela um texto e coloca o cursor em uma nova linha
         System.out.println("Ola mundo java!");
     }    
 }
