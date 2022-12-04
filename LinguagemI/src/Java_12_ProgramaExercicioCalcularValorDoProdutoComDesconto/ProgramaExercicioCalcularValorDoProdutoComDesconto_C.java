@@ -1,4 +1,5 @@
-/*Usando a classe Scanner para entrada de dados, 
+/*
+Usando a classe Scanner para entrada de dados, 
 crie uma classe que receba o valor de um produto e a 
 porcentagem de desconto, calcule e mostre o valor do desconto 
 e o valor do produto com o desconto. Observação: o valor do 

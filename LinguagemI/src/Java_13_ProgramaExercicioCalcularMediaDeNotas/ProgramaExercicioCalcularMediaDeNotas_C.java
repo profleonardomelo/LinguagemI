@@ -1,4 +1,5 @@
-/*Usando a classe JOptionPane para entrada de dados,
+/*
+Usando a classe JOptionPane para entrada de dados,
 elabore uma classe que receba a nota de duas provas
 e de um trabalho. Calcule e mostre a média e o 
 resultado final (Se aprovado ou reprovado [não usar IF]). 
