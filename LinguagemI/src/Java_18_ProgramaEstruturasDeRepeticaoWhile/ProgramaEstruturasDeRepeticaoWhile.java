@@ -15,10 +15,10 @@ public class ProgramaEstruturasDeRepeticaoWhile {
         
         i = 1;
         
-        while (i <= 10) {
+        do {
             System.out.print(i + " ");
             i += 2;
-        }
+        } while (i <= 10);
         
         System.out.println("\nAcabou!");
     }
