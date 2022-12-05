@@ -7,6 +7,9 @@ public class ProgramaTiposDeDadosEVariaveis_C {
     //Cria o método principal (função) "main"
     public static void main(String[] args) {
         
+        //Declara e inicializa uma variável do tipo char
+        char c = 'a';
+        
         //Declara e inicializa uma variável do tipo inteiro
         //(metade da capacidade armazenamento)
         short sh = 1;
@@ -39,6 +42,8 @@ public class ProgramaTiposDeDadosEVariaveis_C {
         //false para falso
         boolean b = true;
 
+        //Imprime na tela o valor armazenado em uma variável do tipo char
+        System.out.println("Valor da variavel c: " + c);
         
         //Imprime na tela o valor armazenado em uma variável do tipo short
         System.out.println("Valor da variavel sh: " + sh);
