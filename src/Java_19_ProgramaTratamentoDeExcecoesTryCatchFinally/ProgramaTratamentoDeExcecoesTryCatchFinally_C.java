@@ -50,19 +50,19 @@ public class ProgramaTratamentoDeExcecoesTryCatchFinally_C {
         catch(ArithmeticException erro)
         {
             //Exibe texto concatenado em uma caixa de diálogo
-            JOptionPane.showMessageDialog(null, "Divisão por zero.\n" + erro.toString(), "Erro", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Divisão por zero.\n" + erro, "Erro", JOptionPane.ERROR_MESSAGE);
         }
         //Início do bloco catch para capturar exceções do tipo NumberFormatException
         catch(NumberFormatException erro)
         {
             //Exibe texto concatenado em uma caixa de diálogo
-            JOptionPane.showMessageDialog(null, "Conversão.\n" + erro.toString(), "Erro", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Conversão.\n" + erro, "Erro", JOptionPane.ERROR_MESSAGE);
         }
         //Início do bloco catch para capturar exceções do tipo NullPointerException
         catch(NullPointerException erro)
         {
             //Exibe texto concatenado em uma caixa de diálogo
-            JOptionPane.showMessageDialog(null, "Tecla Cancel.\n" + erro.toString(), "Cancelado", JOptionPane.WARNING_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Tecla Cancel.\n" + erro, "Cancelado", JOptionPane.WARNING_MESSAGE);
         }
         //Início do bloco finally
         finally

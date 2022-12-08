@@ -31,15 +31,15 @@ public class ProgramaTratamentoDeExcecoesTryCatchFinally {
         }
         catch(ArithmeticException erro)
         {
-            JOptionPane.showMessageDialog(null, "Divisão por zero.\n" + erro.toString(), "Erro", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Divisão por zero.\n" + erro, "Erro", JOptionPane.ERROR_MESSAGE);
         }
         catch(NumberFormatException erro)
         {
-            JOptionPane.showMessageDialog(null, "Conversão.\n" + erro.toString(), "Erro", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Conversão.\n" + erro, "Erro", JOptionPane.ERROR_MESSAGE);
         }
         catch(NullPointerException erro)
         {
-            JOptionPane.showMessageDialog(null, "Tecla Cancel.\n" + erro.toString(), "Cancelado", JOptionPane.WARNING_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Tecla Cancel.\n" + erro, "Cancelado", JOptionPane.WARNING_MESSAGE);
         }
         finally
         {
