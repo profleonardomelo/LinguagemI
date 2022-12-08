@@ -1,0 +1,19 @@
+Apostila de Java o Orientação a Objetos Alura
+https://www.alura.com.br/apostila-java-orientacao-objetos
+
+Apostila de Java e Orientação a Objetos K19
+https://github.com/dsfb/Apostilas_K19/blob/master/Java/k19-k11-orientacao-a-objetos-em-java.pdf
+
+Exemplos de códigos-fonte da Apostila de Java e Orientação a Objetos K19
+https://github.com/K19/K19-Cursos/tree/master/k11-orientacao-a-objetos-em-java
+
+Link para Download do Apache Netbeans
+https://dlcdn.apache.org/netbeans/netbeans-installers/15/Apache-NetBeans-15-bin-windows-x64.exe
+
+Link para Download do Java JDK
+https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
+
+Link para IDE Java Online
+https://replit.com/languages/java10
+
+
