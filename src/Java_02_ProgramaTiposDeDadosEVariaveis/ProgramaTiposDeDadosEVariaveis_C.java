@@ -42,28 +42,28 @@ public class ProgramaTiposDeDadosEVariaveis_C {
         //false para falso
         boolean b = true;
 
-        //Imprime na tela o valor armazenado em uma variável do tipo char
+        //Imprime na tela o valor armazenado numa variável do tipo char
         System.out.println("Valor da variavel c: " + c);
         
-        //Imprime na tela o valor armazenado em uma variável do tipo short
+        //Imprime na tela o valor armazenado numa variável do tipo short
         System.out.println("Valor da variavel sh: " + sh);
         
-        //Imprime na tela o valor armazenado em uma variável do tipo int
+        //Imprime na tela o valor armazenado numa variável do tipo int
         System.out.println("Valor da variavel i: " + i);
 
-        //Imprime na tela o valor armazenado em uma variável do tipo long
+        //Imprime na tela o valor armazenado numa variável do tipo long
         System.out.println("Valor da variavel l: " + l);
 
-        //Imprime na tela o valor armazenado em uma variável do tipo float
+        //Imprime na tela o valor armazenado numa variável do tipo float
         System.out.println("Valor da variavel f: " + f);
 
-        //Imprime na tela o valor armazenado em uma variável do tipo double
+        //Imprime na tela o valor armazenado numa variável do tipo double
         System.out.println("Valor da variavel d: " + d);
 
-        //Imprime na tela o valor armazenado em uma variável do tipo String
+        //Imprime na tela o valor armazenado numa variável do tipo String
         System.out.println("Valor da variavel s: " + s);
         
-        //Imprime na tela o valor armazenado em uma variável do tipo boolean
+        //Imprime na tela o valor armazenado numa variável do tipo boolean
         System.out.println("Valor da variavel b: " + b);           
     }
 }

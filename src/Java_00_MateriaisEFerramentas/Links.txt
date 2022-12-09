@@ -1,4 +1,4 @@
-Apostila de Java o Orientação a Objetos Alura
+Apostila de Java e Orientação a Objetos Alura
 https://www.alura.com.br/apostila-java-orientacao-objetos
 
 Apostila de Java e Orientação a Objetos K19

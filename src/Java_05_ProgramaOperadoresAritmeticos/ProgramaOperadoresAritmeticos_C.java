@@ -13,7 +13,7 @@ public class ProgramaOperadoresAritmeticos_C {
         //Declara e inicializa outra variável do tipo inteiro
         int y = 3; 
         
-        //Imprime na tela o valor armazenado em uma variável do tipo int
+        //Imprime na tela o valor armazenado numa variável do tipo int
         System.out.println("X: " + x);
         
         //Imprime na tela o valor armazenado em outra variável do tipo int

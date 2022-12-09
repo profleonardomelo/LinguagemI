@@ -20,14 +20,13 @@ public class ProgramaConstantes_C {
         //Não se pode alterar o valor de uma constante
         //MILISEGUNDOS_POR_SEGUNDO = 1001;
         
-        
-        //Imprime na tela o valor armazenado em uma constante do tipo double
+        //Imprime na tela o valor armazenado numa constante do tipo double
         System.out.println("Valor da constante PI: " + PI);
         
-        //Imprime na tela o valor armazenado em uma constante do tipo int
+        //Imprime na tela o valor armazenado numa constante do tipo int
         System.out.println("Valor da constante MILISEGUNDOS_POR_SEGUNDO: " + MILISEGUNDOS_POR_SEGUNDO);
         
-        //Imprime na tela o valor armazenado em uma constante do tipo long
+        //Imprime na tela o valor armazenado numa constante do tipo long
         System.out.println("Valor da constante MILISEGUNDOS_POR_DIA: " + MILISEGUNDOS_POR_DIA);
     }
     
