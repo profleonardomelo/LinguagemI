@@ -7,7 +7,7 @@ public class ProgramaOlaMundo_C {
     //Cria o método principal (função) "main"
     public static void main(String[] args) {
         
-        //Imprime na Tela um texto e coloca o cursor em uma nova linha
+        //Imprime um texto na tela e coloca o cursor numa nova linha
         System.out.println("Ola mundo java!");
     }    
 }
