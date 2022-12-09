@@ -7,6 +7,9 @@ https://github.com/dsfb/Apostilas_K19/blob/master/Java/k19-k11-orientacao-a-obje
 Exemplos de códigos-fonte da Apostila de Java e Orientação a Objetos K19
 https://github.com/K19/K19-Cursos/tree/master/k11-orientacao-a-objetos-em-java
 
+Link para vídeo de instalação do IntelliJ IDEA no Windows
+https://www.youtube.com/watch?v=M4iiaWwXEwA
+
 Link para Download do IntelliJ IDEA
 https://download.jetbrains.com/idea/ideaIC-2022.3.exe
 
