@@ -8,7 +8,7 @@ No método main realize as seguintes instruções:
   -Atribua o valor 100.0 ao atributo limite do objeto c01;
   -Realize chamada ao método sacar passando como parâmetro o valor 50.0;
   -Realize chamada ao método depositar passando como parâmetro o valor 30.0;
-  -Realize chamada ao método MostrarInformacoes;
+  -Realize chamada ao método MostrarInformacoes.
 */
 
 package Java_OO_03_ExercicioClasseConta;
