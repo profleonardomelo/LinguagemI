@@ -1,6 +1,6 @@
 /*
 Crie uma classe pública chamada Conta que possui os
-atributos públicos: número (int), saldo (double) e limite (double).
+atributos públicos: numero (int), saldo (double) e limite (double).
 Além disso, a classe Conta deve possuir os métodos: Sacar,
 Depositar e MostrarInformacoes.
 O método Sacar rebece como parâmetro de entrada um valor a ser sacado
