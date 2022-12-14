@@ -8,7 +8,7 @@ public class ProgramaUsarTelevisor_c {
     public static void main(String[] args) {
 
         //Criando um objeto da classe Televisor (do tipo Televisor)
-        Televisor tv01 = new Televisor();
+        Televisor_c tv01 = new Televisor_c();
 
         //Atribuindo 150 ao atributo canal
         tv01.canal = 150;
