@@ -16,7 +16,15 @@ package Java_OO_03_ExercicioClasseConta;
 public class ProgramaUsarConta {
 
     public static void main(String[] args) {
+        Conta c01 = new Conta();
 
+        c01.numero = 1234;
+        c01.saldo = 1000;
+        c01.limite = 100;
+
+        c01.Sacar(50);
+        c01.Depositar(30);
+        c01.MostrarInformacoes();
     }
 
 }
