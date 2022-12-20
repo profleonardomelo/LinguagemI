@@ -24,13 +24,14 @@ public class ProgramaUsarTelevisor {
 
         tv02.diminuirVolume();
 
+
         tv01.trocarCanal(10);
 
         tv02.trocarCanal(20);
 
 
         tv01.mostrarInformacoes();
-        System.out.println();
+
         tv02.mostrarInformacoes();
     }
 }

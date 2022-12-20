@@ -21,7 +21,7 @@ public class Televisor {
 
     public void mostrarInformacoes()
     {
-        System.out.println("Volume: " + volume + "\nCanal: " + canal);
+        System.out.println("Volume: " + volume + "\nCanal: " + canal + "\n");
     }
 }
 
