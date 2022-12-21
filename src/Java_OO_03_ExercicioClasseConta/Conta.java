@@ -31,6 +31,6 @@ public class Conta {
 
     public void MostrarInformacoes()
     {
-        System.out.println("Número: " + numero + "\nSaldo: " + saldo + "\nLimite: " + limite);
+        System.out.println("Número: " + numero + "\nSaldo: " + saldo + "\nLimite: " + limite + "\n");
     }
 }
