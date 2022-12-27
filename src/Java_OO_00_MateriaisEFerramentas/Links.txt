@@ -1,0 +1,25 @@
+Apostila de Java e Orientação a Objetos Alura
+https://www.alura.com.br/apostila-java-orientacao-objetos
+
+Apostila de Java e Orientação a Objetos K19
+https://github.com/dsfb/Apostilas_K19/blob/master/Java/k19-k11-orientacao-a-objetos-em-java.pdf
+
+Exemplos de códigos-fonte da Apostila de Java e Orientação a Objetos K19
+https://github.com/K19/K19-Cursos/tree/master/k11-orientacao-a-objetos-em-java
+
+Link para vídeo de instalação do IntelliJ IDEA no Windows
+https://www.youtube.com/watch?v=M4iiaWwXEwA
+
+Link para Download do IntelliJ IDEA
+https://download.jetbrains.com/idea/ideaIC-2022.3.exe
+
+Link para Download do Java JDK
+https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
+
+Link para Download do Apache Netbeans
+https://dlcdn.apache.org/netbeans/netbeans-installers/16/Apache-NetBeans-16-bin-windows-x64.exe
+
+Link para IDE Java Online
+https://replit.com/languages/java10
+
+
