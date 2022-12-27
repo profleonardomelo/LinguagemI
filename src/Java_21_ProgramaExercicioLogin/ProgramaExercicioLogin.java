@@ -15,10 +15,28 @@ restando apenas uma última chance.
 
 package Java_21_ProgramaExercicioLogin;
 
+import javax.swing.*;
+
 public class ProgramaExercicioLogin {
 
     public static void main(String[] args) {
-        
+
+        for (int i = 1; i <= 3; i++)
+        {
+            String login = JOptionPane.showInputDialog("Forneça um Login: ");
+            String senha = JOptionPane.showInputDialog("Forneça uma Senha: ");
+
+            if (login.equals("java") && senha.equals("java")) {
+                JOptionPane.showMessageDialog(null, "Login e senha aceitos.");
+                break;
+            }
+            else
+            {
+                String mensagem = "Falha, verifique login e senha.\nVocê tem mais " + (3 - i) + " tentativa(s).";
+                JOptionPane.showMessageDialog(null, mensagem);
+            }
+        }
+
     }
     
 }
